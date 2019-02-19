@@ -43,3 +43,5 @@ setInterval(moveBall, 100);
 //       if you are stuck change more moves
 
 // TODO: move the ball more frequently as the time passes
+
+// TODO: see a way of speeding things up
